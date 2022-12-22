@@ -1,0 +1,11 @@
+.example {
+  display: flex;
+
+  &__child {
+    flex: 1 0 auto;
+    background-color: #474747;
+    color: #6fa59b;
+    padding: 20px;
+    text-align: center;
+  }
+}
