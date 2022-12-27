@@ -1,5 +1,5 @@
 export default {
-  base: 'https://dynkin.github.io/digiency',
+  base: 'https://dynkin.github.io/vite-sample/',
   mode: 'production',
   build: {
     outDir: 'docs',
